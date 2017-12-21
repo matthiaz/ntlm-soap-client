@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "matthiaz\\NTLMSoap\\": "src/NTLMSoap/"
+            "matejsvajger\\NTLMSoap\\": "src/NTLMSoap/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "matthiaz\\NTLMSoap\\": "tests"
+            "matejsvajger\\NTLMSoap\\": "tests"
         }
     },
     "scripts": {
